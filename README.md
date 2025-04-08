@@ -2,6 +2,8 @@
 
 A *mini but mighty* project that fetches your posts from **Bluesky** and runs a little **sentiment analysis** magic to give you a...
 
+> ## 🧘‍♂️ Chill Guy Score
+
 ---
 
 ## What it does
